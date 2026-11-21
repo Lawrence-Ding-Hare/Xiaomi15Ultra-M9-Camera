@@ -6,7 +6,9 @@
 2. **衍生分发和收费。** 直接基于本项目制作的衍生项目须免费分发。其他付费项目可以引用或使用本项目的内容，但不得就引用或使用的部分附加收费。
 3. **注明引用。** 引用、修改或分发本项目内容时，请在项目说明、发布页或其他读者容易找到的位置注明项目名称及仓库链接，并保留相关的原作者署名。
 
-推荐引用格式为「本项目引用了 [Xiaomi 15 Ultra M9 Camera](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera) 的相关内容。」
+推荐引用格式如下。
+
+> 本项目引用了 GitHub 上的 [Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera) 项目。
 
 第三方 APK、系统组件、工具、商标及服务适用各自权利人的条款和授权。本项目的使用与分发条款适用于维护者有权授权的内容。
 

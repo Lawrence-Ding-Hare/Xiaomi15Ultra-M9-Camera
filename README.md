@@ -16,6 +16,10 @@
 
 本项目由维护者公开发布并有权授权的内容可无偿使用。直接衍生项目须免费分发。付费项目引用时，不得就来自本项目的部分额外收费。引用、修改或分发时，请注明项目来源并保留署名。 [完整条款](USAGE.md)
 
+推荐引用格式如下。
+
+> 本项目引用了 GitHub 上的 [Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera) 项目。
+
 ## 鸣谢
 
 - 感谢 @LOVELYLULU 发起项目、移植适配徕卡一瞬模型，并制作初版补丁包。
