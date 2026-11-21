@@ -1,0 +1,185 @@
+{
+  "source_scope": "Reference-device observations and release package validation",
+  "r2_install": {
+    "status": "INSTALL_COMPLETE",
+    "two_apks_reinstalled": true,
+    "three_modules_reapplied": true,
+    "automatic_reboots": 1,
+    "postboot_static_checks": "PASS",
+    "manual_user_acceptance": "all normal: normal photo palette persistence, live movement focal lengths, Leica M3/M9, gallery edit and palette save",
+    "package_sha256": "d09194a8fbd5f7a1daa3bf7428bbd85a2c5d3af1738259989fa6d6af78e70c7c"
+  },
+  "r4_packaging": {
+    "zip_sha256": "38623fb0fd206e54196ed74a79bce2baf04c4d1d22c6d7c8fb6b0e1ffa50ce72",
+    "zip_bytes": 401147059,
+    "total_host_tests": 21,
+    "crc_check": true,
+    "manifest_file_count": 27,
+    "fresh_extracted_integrity": "{\"status\": \"INTEGRITY_PASS\", \"release\": \"Xiaomi15Ultra-M9-Hybrid68-OS4040-r4\", \"checked_files\": 27}",
+    "shell_syntax": true,
+    "r4_full_device_reinstall": false
+  },
+  "r11_main_camera_samples": {
+    "1x": {
+      "equivalent_mm": 23,
+      "raw_metadata_match": true,
+      "crop": [
+        0,
+        0,
+        6144,
+        8192
+      ],
+      "cloud_size": [
+        6144,
+        8192
+      ],
+      "saved_size": [
+        6144,
+        8192
+      ],
+      "roi": {
+        "Upper pages": {
+          "saved_box": [
+            2410,
+            3550,
+            2802,
+            3786
+          ],
+          "luma_mae": 0.0761
+        },
+        "Middle pages": {
+          "saved_box": [
+            2460,
+            4110,
+            2852,
+            4346
+          ],
+          "luma_mae": 0.0781
+        },
+        "Lower pages": {
+          "saved_box": [
+            2560,
+            4740,
+            2952,
+            4976
+          ],
+          "luma_mae": 0.0688
+        },
+        "Wall": {
+          "saved_box": [
+            2380,
+            1350,
+            2772,
+            1586
+          ],
+          "luma_mae": 0.0552
+        }
+      }
+    },
+    "2x": {
+      "equivalent_mm": 46,
+      "raw_metadata_match": true,
+      "crop": [
+        1582,
+        2069,
+        4623,
+        6124
+      ],
+      "cloud_size": [
+        6144,
+        8192
+      ],
+      "saved_size": [
+        3041,
+        4055
+      ],
+      "roi": {
+        "Upper pages": {
+          "saved_box": [
+            685,
+            1300,
+            1077,
+            1536
+          ],
+          "luma_mae": 0.1451
+        },
+        "Middle pages": {
+          "saved_box": [
+            926,
+            2010,
+            1318,
+            2246
+          ],
+          "luma_mae": 0.1561
+        },
+        "Lower pages": {
+          "saved_box": [
+            960,
+            2550,
+            1352,
+            2786
+          ],
+          "luma_mae": 0.1546
+        },
+        "Wall": {
+          "saved_box": [
+            760,
+            455,
+            1152,
+            691
+          ],
+          "luma_mae": 0.1166
+        }
+      }
+    }
+  },
+  "telephoto_same_frame_black_level_test": {
+    "raw10_black_level_previous": 0,
+    "raw10_black_level_corrected": 64,
+    "strong_purple_pixel_criterion": "min(R,B) > G + 12 in an averaged JPEG thumbnail",
+    "3x": {
+      "source_jpeg": {
+        "median_g_over_rb_mean": 1.04065,
+        "strong_purple_pixel_fraction": 0.0
+      },
+      "uncorrected_saved": {
+        "median_g_over_rb_mean": 0.75806,
+        "strong_purple_pixel_fraction": 0.45361
+      },
+      "corrected_saved": {
+        "median_g_over_rb_mean": 1.02679,
+        "strong_purple_pixel_fraction": 0.0
+      },
+      "saved_size": [
+        6144,
+        8160
+      ]
+    },
+    "4.3x": {
+      "failed_cloud_color": {
+        "median_g_over_rb_mean": 0.57516,
+        "strong_purple_pixel_fraction": 0.83124
+      },
+      "corrected_cloud_color": {
+        "median_g_over_rb_mean": 1.14754,
+        "strong_purple_pixel_fraction": 0.0
+      },
+      "corrected_saved_color": {
+        "median_g_over_rb_mean": 1.17391,
+        "strong_purple_pixel_fraction": 0.0
+      },
+      "second_corrected_saved_size": [
+        4223,
+        5630
+      ],
+      "crop": [
+        285,
+        0,
+        4508,
+        5630
+      ],
+      "cloud_cropped_to_saved_rgb_mae": 0.0514933280646801,
+      "both_verified_upload_inputs_match_test_files": true
+    }
+  }
+}
