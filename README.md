@@ -4,7 +4,7 @@
 
 > **云端 M9 二瞬相关内容仅供学习参考。**
 
-当前 r13 适用于国行 OS4.0.4.0.XOACNXM，内含 6.8.002230.0 相机 v73。首次安装按 ZIP 内的安装入口和前置依赖说明操作。已正常运行 r12 的用户可直接覆盖更新相机 APK。 [发布与下载](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera/releases)
+当前 r14 适用于国行 OS4.0.4.0.XOACNXM，内含 6.8.002230.0 相机 v75。首次安装按 ZIP 内的安装入口和前置依赖说明操作。已正常运行 r13 的用户可直接覆盖更新相机 APK。 [发布与下载](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera/releases)
 
 如果更新后 M9 标签消失、调色只在预览有效，或徕卡相框报缺少参数，可按症状核对 APK、保存日志和拍摄参数。 [覆盖更新故障排查](docs/覆盖更新故障排查.md)
 
