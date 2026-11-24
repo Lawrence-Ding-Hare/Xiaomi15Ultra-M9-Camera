@@ -1,0 +1,217 @@
+Source-Available Reciprocity and No-Surcharge License 1.0
+SARNSL 1.0
+License identifier: LicenseRef-SARNSL-1.0
+
+1. Definitions
+
+1.1. "Licensor" means each copyright holder, or a party authorized by that
+holder, who applies this License to material identified in a copyright notice,
+file header, or project license notice. Each Licensor grants rights only to
+the extent that they have authority to do so.
+
+1.2. "Software" means the source code, object code, documentation,
+configuration, and other copyrightable material identified as covered by this
+License. Separately identified third-party materials retain their own terms.
+
+1.3. "Covered Work" means the Software and the parts of any modified or combined
+work that incorporate or are derived from copyrightable material in the
+Software. An independent component does not become part of a Covered Work
+solely because it is distributed alongside that work, used with it, or
+communicates with it through an API or standard interface.
+
+1.4. "Direct Variant" means a packaged or hosted version of the Software or a
+modified Covered Work offered as a version of the Software or whose principal
+practical function is supplied by the Software or material derived from it.
+Renaming, repackaging, changing the interface, adding optional services, or
+including minor ancillary features does not by itself change this
+classification. A product with substantial independent functionality that
+includes a Covered Work as one feature may qualify for Section 3.3.
+
+1.5. "Covered Functionality" means functionality as implemented by a Covered
+Work. It does not include a similar function independently implemented without
+using protected expression from the Software.
+
+1.6. "Corresponding Source" means the preferred form for modifying the exact
+Covered Work distributed or operated, including its modifications, interface
+definitions specific to it, and scripts, configurations, and instructions
+reasonably necessary to build, install, and run it. It excludes independent
+components outside the Covered Work, unmodified general-purpose tools and system
+libraries, private credentials, and personal data. Provide usable example
+settings or instructions where credentials or private configuration would
+otherwise be needed.
+
+1.7. "Distribute" means to convey a copy to another person or legal entity,
+including by providing a download. Operation of a service without conveying a
+copy is addressed in Section 5.
+
+1.8. "Contributor" means a person or entity who intentionally submits
+copyrightable material for inclusion and authorizes its inclusion under this
+License.
+
+2. Copyright Permission
+
+Subject to the terms of this License, each Licensor grants you a worldwide,
+non-exclusive, royalty-free copyright license, perpetual subject to
+Section 10, to use, run, study, reproduce, modify, and Distribute the Software
+and to create, use, and Distribute modified and combined works. This grant
+includes private, educational, research, organizational, and commercial use.
+
+3. Commercial Use and Charging
+
+3.1. Commercial use is permitted. You may use the Software for internal
+operations, development, testing, research, or business infrastructure and
+receive revenue from your independent activities, subject to Sections 3.2–3.4.
+
+3.2. Free distribution of the Software and Direct Variants. You must not require
+payment or a purchase to obtain a copy of the Software or a Direct Variant that
+you Distribute, or to install, activate, or use its Covered Functionality.
+The same rule applies when you offer a Direct Variant as a hosted service.
+Charging through a mandatory bundle, installation fee, account fee,
+subscription, or intermediary is subject to the same rule. Availability of a
+free copy elsewhere does not permit charging for a copy you Distribute under
+this License.
+
+3.3. Integration into an independent paid product. You may include a Covered
+Work in a product or service with substantial independent functionality and
+charge for that product or service if all the following conditions apply.
+
+(a) The price is independently supportable by the product's independent
+features or services. You must not add or increase a charge attributable to
+access to or use of Covered Functionality. A generally applicable price
+adjustment based on independent features, costs, or other reasons unrelated
+to Covered Functionality is permitted.
+
+(b) You must not require a separate purchase, paid add-on, activation fee,
+additional usage charge, or move to a higher plan to obtain the Covered
+Functionality. An existing paid product may include the functionality at its
+existing price and in its existing relevant plans. A newly launched product
+must be able to support its price and plan boundaries based on the
+independent features or services offered.
+
+(c) A higher plan may charge for substantially independent benefits. It may
+include Covered Functionality provided at substantially equivalent terms in
+the product's ordinary relevant plan, without an upgrade or separate purchase
+for that functionality.
+
+3.4. Advertising, sponsorship, voluntary donations, and optional fees for
+genuine independent services such as support, customization, and general-purpose
+hosting are permitted. Customers must be able to obtain and use any Software
+or Direct Variant you Distribute without purchasing those services. In an
+independent paid product, fees for hosting or support must be based on the
+service supplied and must not be a condition imposed specifically on access
+to Covered Functionality. A label such as "support" or "hosting" does not
+authorize a disguised charge under Sections 3.2 or 3.3.
+
+3.5. Nothing in this License restricts independent development, sale of a
+competing implementation that does not use protected expression from the
+Software, or use permitted without relying on this License.
+
+4. Corresponding Source on Distribution
+
+4.1. When you Distribute a Covered Work, provide its complete Corresponding
+Source to each recipient at no additional charge. This requirement applies
+to modified and unmodified covered binaries. Distributing complete
+Corresponding Source with the copy satisfies this requirement.
+
+4.2. You may provide Corresponding Source with the copy or give the recipient
+a stable download link or written offer with practical instructions at the
+time of distribution. If you use a link or written offer, keep the exact
+version accessible to recipients free of additional charge for at least three
+years after you last Distribute that version. You may provide the source
+directly to recipients instead of making it publicly available. Recipients may
+exercise their rights to the covered source under this License.
+
+4.3. License the Covered Work, including your changes to it, under this
+License when Distributing it. You may separately license independent material
+outside the Covered Work. The source obligations extend to material that
+incorporates or is derived from the Software, including the covered portions
+of a combined work. Placing those portions in another file, repository,
+package, or intermediary does not remove the obligation.
+
+5. Modified Network Services
+
+If you let users outside your legal entity interact remotely with a modified
+Covered Work, including through an API or integrated frontend, offer those
+users the complete Corresponding Source of the exact deployed Covered Work and
+apply this License to its covered portions. Make the offer prominent,
+accessible without a separate fee, and available for as long as you provide
+access to that version. Independent services and components outside the
+Covered Work remain outside this obligation.
+
+Use restricted to people working on behalf of the same legal entity, solely
+for that entity's internal operations and with no access for their own or
+external purposes, does not trigger this section. Merely using an unmodified
+Covered Work to provide a network service does not trigger the source duty in
+this section. Section 4 applies whenever a copy is Distributed. Section 3
+continues to apply to covered uses.
+
+6. Notices and Attribution
+
+When you Distribute a Covered Work or make it available under Section 5,
+retain applicable copyright, attribution, and license notices. Include this
+License or a durable link to its exact text. Identify the upstream project by
+its stated name and canonical repository or project URL, if supplied. Place
+that credit in a README, an About or notices screen, or documentation
+provided with the work or service. Where reasonably practicable, identify
+material changes and their dates. Do not imply authorship, endorsement, or
+affiliation that does not exist.
+
+7. Downstream Rights and Other Terms
+
+Each recipient receives a license to the Covered Work from its respective
+Licensors under these terms. You must not apply additional restrictions to
+their exercise of rights in the Covered Work. You may license independent
+material and offer separately authorized rights without reducing the rights
+recipients already have under this License. Nothing here changes a separate
+license validly granted for the same material or a previously released
+version. If a third-party license prevents compliance with both sets of terms,
+this License does not authorize Distribution of that combination.
+
+8. Patents
+
+To the extent they have authority to do so, each Licensor and Contributor
+grants recipients a worldwide, non-exclusive, royalty-free patent license
+under claims they own or control that are necessarily infringed by their
+contribution alone or by that contribution combined with the Software as
+submitted. This applies to making, having made, using, offering to sell,
+selling, importing, and otherwise transferring the covered implementation,
+subject to the terms of this License.
+
+If you institute patent litigation alleging that the Software or an
+incorporated contribution constitutes direct or contributory patent
+infringement, the patent licenses granted to you under this section terminate
+when that litigation is filed, to the extent permitted by applicable law.
+
+9. Trademarks
+
+This License permits reasonable use of project names and marks to identify
+origin and comply with Section 6. Any other trademark use requires separate
+authorization where applicable.
+
+10. Termination and Reinstatement
+
+Your rights under this License terminate automatically if you materially
+violate its terms. When you cease the violation, your rights from a particular
+Licensor are provisionally reinstated. They become permanent unless that
+Licensor notifies you of the violation within 60 days after you cease it.
+
+If a Licensor notifies you of a violation and it is the first such notice you
+have received from that Licensor for this Covered Work, your rights from that
+Licensor are permanently reinstated when you cure the violation within 30 days
+of receiving that notice. A termination of your rights does not by itself
+terminate the rights of downstream recipients who continue to comply.
+
+11. Disclaimer and Limitation of Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+LICENSORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+12. Interpretation
+
+Applicable law governs this License. If a provision is held unenforceable, it
+shall be limited to the minimum extent necessary, and the remaining
+provisions continue to apply. The English text controls in the event of an
+inconsistency with a translation, to the extent permitted by applicable law.
