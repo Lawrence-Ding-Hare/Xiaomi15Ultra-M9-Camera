@@ -4,7 +4,9 @@
 
 > **云端 M9 二瞬相关内容仅供学习参考。**
 
-当前 r15 适用于国行 OS4.0.4.0.XOACNXM，内含 6.8.002230.0 相机 v75 和相册编辑 v16。r14 用户只需覆盖更新相册编辑 APK，无需重启。首次安装按 ZIP 内安装入口和前置依赖说明操作。 [最新发布与下载](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera/releases/latest)
+当前 r16 适用于国行 OS4.0.4.0.XOACNXM，内含 6.8.002230.0 相机 v82 和相册编辑 v16。相机更新包含人像成片调色、慢动作长焦裁切和独立两亿像素 HEIF 水印及保存等待修复。首次安装按 ZIP 内的安装说明和依赖检查操作。 [最新发布与下载](https://github.com/Lawrence-Ding-Hare/Xiaomi15Ultra-M9-Camera/releases/latest)
+
+从 r15 升级时，相册编辑 v16 可继续使用。v82 相机的签名证书与 r15 的 v75 不同，能否覆盖安装取决于设备的签名兼容环境。 [覆盖更新条件](docs/覆盖更新故障排查.md)
 
 如果更新后 M9 标签消失、调色只在预览有效，或徕卡相框报缺少参数，可按症状核对 APK、保存日志和拍摄参数。 [覆盖更新故障排查](docs/覆盖更新故障排查.md)
 
